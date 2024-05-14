@@ -1,0 +1,2 @@
+# Title: Wallpaper Viewer
+Description: A Python application designed with Tkinter and PIL to create a user-friendly interface for viewing wallpapers stored in a specified directory. It dynamically loads images from the 'wallpapers' folder, allowing users to cycle through them using the 'Next' button. The GUI is styled with a black background and white text, maintaining readability with Verdana font. It offers a seamless experience for browsing and enjoying various wallpapers effortlessly.
